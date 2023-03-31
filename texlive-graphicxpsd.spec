@@ -1,6 +1,6 @@
 Name:		texlive-graphicxpsd
 Version:	57341
-Release:	1
+Release:	2
 Summary:	Adobe Photoshop Data format (PSD) support for graphicx package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/graphicxpsd
