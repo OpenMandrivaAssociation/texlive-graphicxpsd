@@ -3,7 +3,7 @@ Version:	57341
 Release:	2
 Summary:	Adobe Photoshop Data format (PSD) support for graphicx package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/graphicxpsd
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/graphicxpsd
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/graphicxpsd.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/graphicxpsd.doc.r%{version}.tar.xz
